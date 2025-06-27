@@ -1,0 +1,315 @@
+[
+  { "cardId": 1,
+    "title": "Paia Inn",
+    "rating": 4,
+    "description": "Stylish hotel featuring quarters with bamboo floors & patios, plus free loaner beach gear.",
+    "cardImg": "/img/hotels/paiainn.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Beach access"
+    ],
+    "island": "Maui",
+    "price": "$$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 2,
+    "title": "Ho'oilo House",
+    "rating": 5,
+    "description": "Romantic property offering sophisticated suites with outdoor showers, plus ocean views & a pool.",
+    "cardImg": "img/hotels/sunset-time.jpg",
+    "tags": [
+      "Free breakfast",
+      "Air conditioning",
+      "Free parking",
+      "Outdoor pool",
+      "Free Wi-Fi"
+    ],
+    "island": "Maui",
+    "price": "$$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 3,
+    "title": "Volcano Inn",
+    "rating": 4,
+    "description": "Cozy quarters & a shaded hot tub set amid a rainforest, plus free WiFi& breakfast.",
+    "cardImg": "img/hotels/volcano-inn.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Free breakfast",
+      "Free parking",
+      "Airport shuttle",
+      "Kid-friendly"
+    ],
+    "island": "Hawai'i",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 4,
+    "title": "Paia Inn",
+    "rating": "4.9",
+    "description": "Stylish hotel featuring quarters with bamboo floors & patios, plus free loaner beach gear.",
+    "cardImg": "/img/hotels/paiainn.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Beach access"
+    ],
+    "island": "Hawai'i",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 5,
+    "title": "The Inn At Mama's Fish House",
+    "rating": 5,
+    "description": "Tranquil, all-suite beachfront inn offering a Polynesian-inspired fish restaurant.",
+    "cardImg": "img/hotels/mamas-fish.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Restaurant",
+      "Free parking"
+    ],
+    "island": "Maui",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 6,
+    "title": "Ke Iki Beach Bungalows",
+    "rating": 5,
+    "description": "Airy bungalows with kitchens & BBQs in a beachfront getaway offering free Wi-Fi & gardens.",
+    "cardImg": "img/hotels/keikibeach.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Beach front",
+      "Activities",
+      "Free parking",
+      "Kitchen in rooms"
+    ],
+    "island": "Oahu",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 7,
+    "title": "Tiki Moon Villas",
+    "rating": 4,
+    "description": "Relaxed villas with patios by the beach, plus free parking & boogie board rentals.",
+    "cardImg": "img/hotels/keikibeach.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Beach front",
+      "Air conditioning",
+      "Free parking",
+      "Pet-friendly"
+    ],
+    "island": "Oahu",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 8,
+    "title": "Hotel Moloka'i",
+    "rating": 4,
+    "description": "Oceanfront property offering traditional island-themed rooms, as well as an outdoor pool.",
+    "cardImg": "img/hotels/hotel-molokai.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Beach front",
+      "Air conditioning",
+      "Restaurant",
+      "Airport shuttle"
+    ],
+    "island": "Moloka'i",
+    "price": "$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 9,
+    "title": "The Mauian Hotel",
+    "rating": 4,
+    "description": "Relaxed island-style quarters in a prime beachfront location, plus a pool & free breakfast.",
+    "cardImg": "img/hotels/the-mauian-hotel-on-napili.jpg",
+    "tags": [
+      "Free Wi-Fi",
+      "Beach front",
+      "Outdoor pool",
+      "Free breakfast",
+      "Free parking"
+    ],
+    "island": "Maui",
+    "price": "$$$",
+    "category" : "hotel"
+  },
+  {
+    "cardId": 10,
+    "title": "Voyagers of the Pacific",
+    "rating": 4,
+    "description": "Authentic Hawaiian luau experience featuring traditional Polynesian dance performances, cultural demonstrations, and a delicious feast with oceanfront views.",
+    "cardImg": "img/voyagers-pacific-luau-dance.jpeg",
+    "tags": [
+      "Oceanfront",
+      "Luau",
+      "Food",
+      "Culture"
+    ],
+    "island": "Hawai'i",
+    "price": "$$$",
+    "category" : "activity"
+  },
+  {
+    "cardId": 11,
+    "title": "Paradise Cove Lū'au",
+    "rating": 5,
+    "description": "Premier luau experience with spectacular oceanfront setting, featuring traditional Hawaiian entertainment, cultural activities, and a sumptuous buffet dinner.",
+    "cardImg": "img/paradisecove.jpeg",
+    "tags": [
+      "Oceanfront",
+      "Luau",
+      "Live Music",
+      "Culture"
+    ],
+    "island": "Oahu",
+    "price": "$$$$",
+    "category" : "activity"
+  },
+  {
+    "cardId": 12,
+    "title": "Old Lahaina Lū'au",
+    "rating": 5,
+    "description": "Intimate beachside luau offering authentic Hawaiian culture through traditional dance, music, and cuisine in a beautiful sunset setting.",
+    "cardImg": "img/oldlahaina.webp",
+    "tags": [
+      "Beachside",
+      "Luau",
+      "Food",
+      "Culture"
+    ],
+    "island": "Maui",
+    "price": "$$$",
+    "category" : "activity"
+  },
+  {
+    "cardId": 13,
+    "title": "Grand Hyatt Kaua'i Lū'au",
+    "rating": 5,
+    "description": "Luxury luau experience at the Grand Hyatt featuring world-class Polynesian entertainment, gourmet dining, and stunning resort surroundings.",
+    "cardImg": "img/Kauai.avif",
+    "tags": [
+      "Waterside",
+      "Luau",
+      "Food",
+      "Culture"
+    ],
+    "island": "Kaua'i",
+    "price": "$$$$",
+    "category" : "activity"
+  },
+  {
+    "cardId": 14,
+    "title": "Kalaupapa Mule Tour",
+    "rating": 5,
+    "description": "Historic guided tour descending the world's highest sea cliffs by mule, exploring the fascinating history and natural beauty of Kalaupapa National Historical Park.",
+    "cardImg": "img/molokai-mule-ride-to.jpeg",
+    "tags": [
+      "Nature",
+      "Tour",
+      "Historical",
+      "Culture"
+    ],
+    "island": "Lāna'i",
+    "price": "$$",
+    "category" : "activity"
+  },
+  {
+    "cardId": 15,
+    "title": "Jackie Rey's Ohana Grill",
+    "rating": 4,
+    "description": "Family-owned restaurant serving fresh local seafood and Hawaiian specialties in a casual, welcoming atmosphere with ocean views.",
+    "cardImg": "img/jackie-rays-kona-interior-2.jpeg",
+    "tags": [
+      "Seafood",
+      "View Access",
+      "Grill",
+      "Bar"
+    ],
+    "island": "Hawai'i",
+    "price": "$$",
+    "category" : "dining"
+  },
+  {
+    "cardId": 16,
+    "title": "Merriman's Honolulu",
+    "rating": 4,
+    "description": "Farm-to-table dining experience featuring locally sourced ingredients and innovative Hawaiian cuisine with live music and stunning city views.",
+    "cardImg": "img/merrimans.jpeg",
+    "tags": [
+      "Seafood",
+      "View Access",
+      "Live Music",
+      "Dine In"
+    ],
+    "island": "Oahu",
+    "price": "$$",
+    "category" : "dining"
+  },
+  {
+    "cardId": 17,
+    "title": "Roy's Waikoloa Bar & Grill",
+    "rating": 4,
+    "description": "Celebrity chef Roy Yamaguchi's signature restaurant offering Hawaiian fusion cuisine with Pacific Rim flavors in an elegant beachfront setting.",
+    "cardImg": "img/roysbarandgrill.png",
+    "tags": [
+      "Seafood",
+      "View Access",
+      "Bar",
+      "Grill"
+    ],
+    "island": "Hawai'i",
+    "price": "$$$",
+    "category" : "dining"
+  },
+  {
+    "cardId": 18,
+    "title": "Lahaina Grill",
+    "rating": 5,
+    "description": "Award-winning fine dining restaurant featuring contemporary American cuisine with Hawaiian influences, extensive wine list, and sophisticated ambiance.",
+    "cardImg": "img/lahaina.jpeg",
+    "tags": [
+      "Seafood",
+      "Art",
+      "Winery",
+      "Elegant"
+    ],
+    "island": "Maui",
+    "price": "$$$$",
+    "category" : "dining"
+  },
+  {
+    "cardId": 19,
+    "title": "Kalaupapa Mule Tour",
+    "rating": 5,
+    "description": "Unique adventure tour featuring a scenic mule ride down dramatic sea cliffs to explore the historic Kalaupapa settlement and its rich cultural heritage.",
+    "cardImg": "img/molokai-mule-ride-to.jpeg",
+    "tags": [
+      "Nature",
+      "Tour",
+      "Historical",
+      "Culture"
+    ],
+    "island": "Moloka'i",
+    "price": "$$",
+    "category" : "activity"
+  }
+]
+

@@ -1,0 +1,24 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <circle cx="35" cy="15" r="8" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+  <line x1="35" y1="5" x2="35" y2="3" stroke="#FFA500" stroke-width="2"/>
+  <line x1="35" y1="27" x2="35" y2="29" stroke="#FFA500" stroke-width="2"/>
+  <line x1="25" y1="15" x2="23" y2="15" stroke="#FFA500" stroke-width="2"/>
+  <line x1="47" y1="15" x2="45" y2="15" stroke="#FFA500" stroke-width="2"/>
+  <line x1="28" y1="8" x2="26" y2="6" stroke="#FFA500" stroke-width="2"/>
+  <line x1="42" y1="22" x2="44" y2="24" stroke="#FFA500" stroke-width="2"/>
+  <line x1="28" y1="22" x2="26" y2="24" stroke="#FFA500" stroke-width="2"/>
+  <line x1="42" y1="8" x2="44" y2="6" stroke="#FFA500" stroke-width="2"/>
+  
+  <!-- Palm Tree Trunk -->
+  <rect x="22" y="25" width="6" height="20" fill="#8B4513"/>
+  
+  <!-- Palm Tree Leaves -->
+  <path d="M25 25 Q15 20 10 25 Q15 30 25 25" fill="#228B22"/>
+  <path d="M25 25 Q35 20 40 25 Q35 30 25 25" fill="#228B22"/>
+  <path d="M25 20 Q20 15 15 20 Q20 25 25 20" fill="#228B22"/>
+  <path d="M25 20 Q30 15 35 20 Q30 25 25 20" fill="#228B22"/>
+  
+  <!-- Hawaii Text -->
+  <text x="25" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" fill="#000080" font-weight="bold">HAWAII</text>
+</svg> 

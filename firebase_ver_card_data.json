@@ -1,0 +1,36 @@
+{
+  "cards" :{
+    {
+      "title": "Paia Inn",
+      "rating": 4,
+      "description": "Stylish hotel featuring quarters with bamboo floors & patios, plus free loaner beach gear.",
+      "cardImg": "/img/hotels/paiainn.jpg",
+      "tags": {
+        1: "Free Wi-Fi",
+        2: "Air conditioning",
+        3: "Fitness center",
+        4: "Bar",
+        5: "Beach access"
+      },
+      "island": "Maui",
+      "price": "$$$$",
+      "category" : "hotel"
+    },
+    {
+      "title": "Ho'oilo House",
+      "rating": 5,
+      "description": "Romantic property offering sophisticated suites with outdoor showers, plus ocean views & a pool.",
+      "cardImg": "img/hotels/sunset-time.jpg",
+      "tags": {
+        0: "Free breakfast",
+        1: "Air conditioning",
+        2: "Free parking",
+        3: "Outdoor pool",
+        4: "Free Wi-Fi"
+      },
+      "island": "Maui",
+      "price": "$$$$",
+      "category" : "hotel"
+    }
+  }
+}

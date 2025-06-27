@@ -1,0 +1,284 @@
+{
+  "allCards": {
+
+    "BTdWkcj1bb": {
+      "title": "Ho'oilo House",
+      "rating": 5,
+      "description": "Romantic property offering sophisticated suites with outdoor showers, plus ocean views & a pool.",
+      "cardImg": "img/hotels/sunset-time.jpg",
+      "tags": [
+        "Free breakfast",
+        "Air conditioning",
+        "Free parking",
+        "Outdoor pool",
+        "Free Wi-Fi"
+      ],
+      "island": "Maui",
+      "price": "$$$$",
+      "category" : "hotel"
+    },
+
+    "dvPOa2KhdA": {
+      "title": "Paia Inn",
+      "rating": 4,
+      "description": "Stylish hotel featuring quarters with bamboo floors & patios, plus free loaner beach gear.",
+      "cardImg": "/img/hotels/paiainn.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Fitness center",
+        "Bar",
+        "Beach access"
+      ],
+      "island": "Maui",
+      "price": "$$$$",
+      "category" : "hotel"
+    },
+
+    "X4oT29f29d": {
+      "title": "Volcano Inn",
+      "rating": 4,
+      "description": "Cozy quarters & a shaded hot tub set amid a rainforest, plus free WiFi& breakfast.",
+      "cardImg": "img/hotels/volcano-inn.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Free breakfast",
+        "Free parking",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "island": "Hawai'i",
+      "price": "$$$",
+      "category" : "hotel"
+    },
+
+    "XLbPGwgIu4": {
+      "title": "The Inn At Mama's Fish House",
+      "rating": 5,
+      "description": "Tranquil, all-suite beachfront inn offering a Polynesian-inspired fish restaurant.",
+      "cardImg": "img/hotels/mamas-fish.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Restaurant",
+        "Free parking"
+      ],
+      "island": "Maui",
+      "price": "$$$",
+      "category" : "hotel"
+    },
+
+    "PXLg5DxuG4": {
+      "title": "Ke Iki Beach Bungalows",
+      "rating": 5,
+      "description": "Airy bungalows with kitchens & BBQs in a beachfront getaway offering free Wi-Fi & gardens.",
+      "cardImg": "img/hotels/keikibeach.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Beach front",
+        "Activities",
+        "Free parking",
+        "Kitchen in rooms"
+      ],
+      "island": "Oahu",
+      "price": "$$$",
+      "category" : "hotel"
+    },
+
+    "AHDIiJckl0": {
+      "title": "Tiki Moon Villas",
+      "rating": 4,
+      "description": "Relaxed villas with patios by the beach, plus free parking & boogie board rentals.",
+      "cardImg": "img/hotels/keikibeach.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Beach front",
+        "Air conditioning",
+        "Free parking",
+        "Pet-friendly"
+      ],
+      "island": "Oahu",
+      "price": "$$$",
+      "category" : "hotel"
+    },
+
+    "AmLU9jZhyj": {
+      "title": "Hotel Moloka'i",
+      "rating": 4,
+      "description": "Oceanfront property offering traditional island-themed rooms, as well as an outdoor pool.",
+      "cardImg": "img/hotels/hotel-molokai.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Beach front",
+        "Air conditioning",
+        "Restaurant",
+        "Airport shuttle"
+      ],
+      "island": "Moloka‘i",
+      "price": "$$",
+      "category" : "hotel"
+    },
+
+    "OVJ56X0No0": {
+      "title": "The Mauian Hotel",
+      "rating": 4,
+      "description": "Relaxed island-style quarters in a prime beachfront location, plus a pool & free breakfast.",
+      "cardImg": "img/hotels/the-mauian-hotel-on-napili.jpg",
+      "tags": [
+        "Free Wi-Fi",
+        "Beach front",
+        "Outdoor pool",
+        "Free breakfast",
+        "Free parking"
+      ],
+      "island": "Maui",
+      "price": "$$$",
+      "category" : "hotel"
+    },
+
+    "P0wsKPfXxG": {
+      "title": "Voyagers of the Pacific",
+      "rating": 4,
+      "description": "Voyagers of the Pacific",
+      "cardImg": "img/voyagers-pacific-luau-dance.jpeg",
+      "tags": [
+        "Oceanfront",
+        "Luau",
+        "Food",
+        "Culture"
+      ],
+      "island": "Hawai'i",
+      "price": "$$$",
+      "category" : "activity"
+    },
+
+    "0DMnJX2oP4": {
+      "title": "Paradise Cove Lū‘au",
+      "rating": 5,
+      "description": "Paradise Cove Lū‘au",
+      "cardImg": "img/paradisecove.jpeg",
+      "tags": [
+        "Oceanfront",
+        "Luau",
+        "Live Music",
+        "Culture"
+      ],
+      "island": "Oahu",
+      "price": "$$$$",
+      "category" : "activity"
+    },
+
+    "Tq1qPgUX1p": {
+      "title": "Grand Hyatt Kaua‘i Lū‘au",
+      "rating": 5,
+      "description": "Grand Hyatt Kaua‘i Lū‘au",
+      "cardImg": "img/Kauai.avif",
+      "tags": [
+        "Waterside",
+        "Luau",
+        "Food",
+        "Culture"
+      ],
+      "island": "Kaua'i",
+      "price": "$$$$",
+      "category" : "activity"
+    },
+
+    "YbHKL3paAN": {
+      "title": "Old Lahaina Lū‘au",
+      "rating": 5,
+      "description": "Old Lahaina Lū‘au",
+      "cardImg": "img/oldlahaina.jpg",
+      "tags": [
+        "Beachside",
+        "Luau",
+        "Food",
+        "Culture"
+      ],
+      "island": "Maui",
+      "price": "$$$",
+      "category" : "activity"
+    },
+
+    "UEFCvBpsEk": {
+      "title": "Kalaupapa Mule Tour",
+      "rating": 5,
+      "description": "Kalaupapa Mule Tour",
+      "cardImg": "img/molokai-mule-ride-to.jpeg",
+      "tags": [
+        "Nature",
+        "Tour",
+        "Historical",
+        "Culture"
+      ],
+      "island": "Lāna‘i",
+      "price": "$$",
+      "category" : "activity"
+    },
+
+    "HNmvUPFkAJ": {
+      "title": "Jackie Rey's Ohana Grill",
+      "rating": 4,
+      "description": "Jackie Rey's Ohana Grill",
+      "cardImg": "img/jackie-rays-kona-interior-2.jpeg",
+      "tags": [
+        "Seafood",
+        "View Access",
+        "Grill",
+        "Bar"
+      ],
+      "island": "Hawai'i",
+      "price": "$$",
+      "category" : "dining"
+    },
+
+    "Jq47308qJI": {
+      "title": "Merriman’s Honolulu",
+      "rating": 4,
+      "description": "Merriman’s Honolulu",
+      "cardImg": "img/merrimans.jpg",
+      "tags": [
+        "Seafood",
+        "View Access",
+        "Live Music",
+        "Dine In"
+      ],
+      "island": "Oahu",
+      "price": "$$",
+      "category" : "dining"
+    },
+
+    "A88OF3wCWy": {
+      "title": "Lahaina Grill",
+      "rating": 5,
+      "description": "Lahaina Grill",
+      "cardImg": "img/lahaina.jpeg",
+      "tags": [
+        "Seafood",
+        "Art",
+        "Winery",
+        "Elegant"
+      ],
+      "island": "Maui",
+      "price": "$$$$",
+      "category" : "dining"
+    },
+
+    "9KY3EZzdZr": {
+      "title": "Roy’s Waikoloa Bar & Grill",
+      "rating": 4,
+      "description": "Roy’s Waikoloa Bar & Grill",
+      "cardImg": "img/roysbarandgrill.png",
+      "tags": [
+        "Seafood",
+        "View Access",
+        "Bar",
+        "Grill"
+      ],
+      "island": "Hawaiʻi",
+      "price": "$$$",
+      "category" : "dining"
+    }
+  }
+}

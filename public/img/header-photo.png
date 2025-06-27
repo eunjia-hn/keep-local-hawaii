@@ -1,0 +1,53 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E90FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000080;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky -->
+  <rect width="1200" height="300" fill="url(#skyGradient)"/>
+  
+  <!-- Ocean -->
+  <rect x="0" y="300" width="1200" height="100" fill="url(#oceanGradient)"/>
+  
+  <!-- Sun -->
+  <circle cx="1000" cy="80" r="40" fill="#FFD700" stroke="#FFA500" stroke-width="3"/>
+  
+  <!-- Palm trees -->
+  <g transform="translate(100, 250)">
+    <!-- Palm tree 1 -->
+    <rect x="0" y="0" width="8" height="50" fill="#8B4513"/>
+    <path d="M4 0 Q-20 -30 -10 0 Q-20 30 4 0" fill="#228B22"/>
+    <path d="M4 0 Q20 -30 10 0 Q20 30 4 0" fill="#228B22"/>
+    <path d="M4 -10 Q-15 -40 -5 -10 Q-15 20 4 -10" fill="#228B22"/>
+    <path d="M4 -10 Q15 -40 5 -10 Q15 20 4 -10" fill="#228B22"/>
+  </g>
+  
+  <g transform="translate(200, 240)">
+    <!-- Palm tree 2 -->
+    <rect x="0" y="0" width="8" height="60" fill="#8B4513"/>
+    <path d="M4 0 Q-25 -35 -15 0 Q-25 35 4 0" fill="#228B22"/>
+    <path d="M4 0 Q25 -35 15 0 Q25 35 4 0" fill="#228B22"/>
+    <path d="M4 -15 Q-20 -45 -10 -15 Q-20 15 4 -15" fill="#228B22"/>
+    <path d="M4 -15 Q20 -45 10 -15 Q20 15 4 -15" fill="#228B22"/>
+  </g>
+  
+  <!-- Mountains -->
+  <path d="M0 300 L300 200 L600 250 L900 180 L1200 220 L1200 300 Z" fill="#228B22" opacity="0.8"/>
+  <path d="M0 300 L400 150 L800 200 L1200 180 L1200 300 Z" fill="#006400" opacity="0.6"/>
+  
+  <!-- Text overlay -->
+  <text x="600" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" stroke="#000" stroke-width="2">
+    SHOP LOCAL HAWAII
+  </text>
+  <text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white" stroke="#000" stroke-width="1">
+    Supporting Local Hawaiian Businesses
+  </text>
+</svg> 

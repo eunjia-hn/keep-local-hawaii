@@ -1,0 +1,20 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <circle cx="40" cy="10" r="8" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+  <line x1="40" y1="2" x2="40" y2="0" stroke="#FFA500" stroke-width="2"/>
+  <line x1="40" y1="18" x2="40" y2="20" stroke="#FFA500" stroke-width="2"/>
+  <line x1="32" y1="10" x2="30" y2="10" stroke="#FFA500" stroke-width="2"/>
+  <line x1="48" y1="10" x2="50" y2="10" stroke="#FFA500" stroke-width="2"/>
+  
+  <!-- Palm Tree Trunk -->
+  <rect x="22" y="25" width="6" height="20" fill="#8B4513"/>
+  
+  <!-- Palm Leaves -->
+  <path d="M25 25 Q15 15 10 20 Q15 25 25 25" fill="#228B22" stroke="#006400" stroke-width="1"/>
+  <path d="M25 25 Q35 15 40 20 Q35 25 25 25" fill="#228B22" stroke="#006400" stroke-width="1"/>
+  <path d="M25 20 Q20 10 15 15 Q20 20 25 20" fill="#228B22" stroke="#006400" stroke-width="1"/>
+  <path d="M25 20 Q30 10 35 15 Q30 20 25 20" fill="#228B22" stroke="#006400" stroke-width="1"/>
+  
+  <!-- Ocean waves -->
+  <path d="M0 45 Q10 40 20 45 Q30 40 40 45 Q50 40 50 45 L50 50 L0 50 Z" fill="#87CEEB"/>
+</svg> 

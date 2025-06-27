@@ -1,0 +1,111 @@
+[
+    {
+        "text": "How many main islands make up the state of Hawaii?",
+        "options": [
+            { "id": 0, "text": "6", "isCorrect": false },
+            { "id": 1, "text": "8", "isCorrect": true },
+            { "id": 2, "text": "12", "isCorrect": false },
+            { "id": 3, "text": "18", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "Which island is the oldest of the main islands?",
+        "options": [
+            { "id": 0, "text": "Kauai", "isCorrect": true },
+            { "id": 1, "text": "Maui", "isCorrect": false },
+            { "id": 2, "text": "Oahu", "isCorrect": false },
+            { "id": 3, "text": "Molokai", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "What was Hawaii's original name?",
+        "options": [
+            { "id": 0, "text": "The Water Islands", "isCorrect": false },
+            { "id": 1, "text": "The Volcanic Islands", "isCorrect": false },
+            { "id": 2, "text": "The Green Islands", "isCorrect": false },
+            { "id": 3, "text": "The Sandwich Islands", "isCorrect": true }
+        ]
+    },
+    {
+        "text": "What is Hawaii famous for?",
+        "options": [
+            { "id": 0, "text": "Beaches", "isCorrect": true },
+            { "id": 1, "text": "Snowy Weather", "isCorrect": false },
+            { "id": 2, "text": "Coffee", "isCorrect": false },
+            { "id": 3, "text": "Obama", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "Which of the following was invented in Hawaii?",
+        "options": [
+            { "id": 0, "text": "Swimming", "isCorrect": false },
+            { "id": 1, "text": "Surfing", "isCorrect": true },
+            { "id": 2, "text": "Scuba Diving", "isCorrect": false },
+            { "id": 3, "text": "Mountain Climbing", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "Which popular Hawaiian artifact was historically used to identify rank and the island someone was from?",
+        "options": [
+            { "id": 0, "text": "Sea shell", "isCorrect": false },
+            { "id": 1, "text": "Lei", "isCorrect": true },
+            { "id": 2, "text": "Malo & Pa'u", "isCorrect": false },
+            { "id": 3, "text": "Hibiscus Flower", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "What does Aloha mean?",
+        "options": [
+            { "id": 0, "text": "Hello", "isCorrect": false },
+            { "id": 1, "text": "Goodbye", "isCorrect": false },
+            { "id": 3, "text": "Love and Respect", "isCorrect": false },
+            { "id": 4, "text": "Compassion and Mercy", "isCorrect": false },
+            { "id": 5, "text": "All of the above", "isCorrect": true }
+        ]
+    },
+    {
+        "text": "What is a lei a symbol for in Hawaii?",
+        "options": [
+            { "id": 0, "text": "Farewell", "isCorrect": false },
+            { "id": 1, "text": "Gratitude", "isCorrect": false },
+            { "id": 2, "text": "Welcome and affection", "isCorrect": true },
+            { "id": 3, "text": "Hostility", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "How many letters are in the Hawaiian alphabet?",
+        "options": [
+            { "id": 0, "text": "12", "isCorrect": true },
+            { "id": 1, "text": "20", "isCorrect": false },
+            { "id": 2, "text": "52", "isCorrect": false },
+            { "id": 3, "text": "33", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "Hawaii is the only US state to grow which crop?",
+        "options": [
+            { "id": 0, "text": "Macadamia Nuts", "isCorrect": false },
+            { "id": 1, "text": "Pineapple", "isCorrect": false },
+            { "id": 2, "text": "Cacao", "isCorrect": false },
+            { "id": 3, "text": "Coffee beans", "isCorrect": true }
+        ]
+    },
+    {
+        "text": "When was Hawai'i's government illegally overthrown by the U.S.?",
+        "options": [
+            { "id": 0, "text": "1893", "isCorrect": true },
+            { "id": 1, "text": "1909", "isCorrect": false },
+            { "id": 2, "text": "1862", "isCorrect": false },
+            { "id": 3, "text": "1947", "isCorrect": false }
+        ]
+    },
+    {
+        "text": "Who was Hawai'i's first and last queen?",
+        "options": [
+            { "id": 0, "text": "Queen Lokelani", "isCorrect": true },
+            { "id": 1, "text": "Queen Ainanani", "isCorrect": false },
+            { "id": 2, "text": "Queen Lili'uokalani", "isCorrect": false },
+            { "id": 3, "text": "Queen Miliani", "isCorrect": false }
+        ]
+    }
+]
