@@ -1,4 +1,3 @@
-# keep-local-hawaii
 # Shop Local Hawaii
 
 A modern React web app to discover, support, and register local Hawaiian businesses—hotels, restaurants, and activities—promoting sustainable tourism and authentic island experiences.
